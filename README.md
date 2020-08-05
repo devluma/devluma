@@ -39,22 +39,22 @@ I have worked with the following databases:<br/>
   <tbody>
     <tr>
       <td>
-        <img alt="Buttons Animate GIF" src="static/buttons-animate.gif" />
+        <img alt="Buttons Animate GIF" src="static/buttons-animate.gif" width="100%" />
       </td>
     </tr>
     <tr>
       <td>
-        <img alt="Web Be The Hero GIF" src="static/web-be-the-hero.gif" />
+        <img alt="Web Be The Hero GIF" src="static/web-be-the-hero.gif" width="100%" />
       </td>
     </tr>
     <tr>
       <td>
-        <img alt="Site Sysdomotic GIF" src="static/site-sysdomotic.gif" />
+        <img alt="Site Sysdomotic GIF" src="static/site-sysdomotic.gif" width="100%" />
       </td>
     </tr>
     <tr>
       <td>
-        <img alt="Portal Sysdomotic GIF" src="static/portal-sysdomotic.gif" />
+        <img alt="Portal Sysdomotic GIF" src="static/portal-sysdomotic.gif" width="100%" />
       </td>
     </tr>
   </tbody>
