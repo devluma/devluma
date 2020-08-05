@@ -43,14 +43,23 @@ I have worked with the following databases:<br/>
       </td>
     </tr>
     <tr>
+      <td></td>
+    </tr>
+    <tr>
       <td>
         <img alt="Web Be The Hero GIF" src="https://media.giphy.com/media/kGXRKvadDUPghHNjKW/giphy.gif" width="100%" />
       </td>
     </tr>
     <tr>
+      <td></td>
+    </tr>
+    <tr>
       <td>
         <img alt="Site Sysdomotic GIF" src="https://media.giphy.com/media/UQIw7VC1EYkt8FqfEm/giphy.gif" width="100%" />
       </td>
+    </tr>
+    <tr>
+      <td></td>
     </tr>
     <tr>
       <td>
