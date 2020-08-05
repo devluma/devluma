@@ -55,7 +55,7 @@ I have worked with the following databases:<br/>
     </tr>
     <tr>
       <td>
-        <img alt="Site Sysdomotic GIF" src="https://media.giphy.com/media/XH4t1ZtEgN7wZRxF1v/giphy.gif" width="100%" />
+        <img alt="Portal Sysdomotic GIF" src="https://media.giphy.com/media/Qsy4EbCq5AZgIaZ219/giphy.gif" width="100%" />
       </td>
     </tr>
     <tr>
@@ -63,7 +63,7 @@ I have worked with the following databases:<br/>
     </tr>
     <tr>
       <td>
-        <img alt="Portal Sysdomotic GIF" src="https://media.giphy.com/media/Qsy4EbCq5AZgIaZ219/giphy.gif" width="100%" />
+        <img alt="Site Sysdomotic GIF" src="https://media.giphy.com/media/XH4t1ZtEgN7wZRxF1v/giphy.gif" width="100%" />
       </td>
     </tr>
   </tbody>
