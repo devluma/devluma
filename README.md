@@ -35,13 +35,30 @@ I have worked with the following databases:<br/>
 
 ### 🚀 **Follow My Jobs:**
 
-![Buttons Animate Demo](static/buttons-animate.gif)
-
-![Web Be The Hero Rocketseat](static/web-be-the-hero.gif)
-
-![Site Sysdomotic](static/site-sysdomotic.gif)
-
-![Portal Sysdomotic Demo](static/portal-sysdomotic.gif)
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img alt="Buttons Animate GIF" src="static/buttons-animate.gif" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="Web Be The Hero GIF" src="static/web-be-the-hero.gif" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="Site Sysdomotic GIF" src="static/site-sysdomotic.gif" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="Portal Sysdomotic GIF" src="static/portal-sysdomotic.gif" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <!--
 **devluma/devluma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
