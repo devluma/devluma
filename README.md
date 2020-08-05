@@ -39,22 +39,22 @@ I have worked with the following databases:<br/>
   <tbody>
     <tr>
       <td>
-        <img alt="Buttons Animate GIF" src="static/buttons-animate.gif" width="100%" />
+        <img alt="Buttons Animate GIF" src="https://media.giphy.com/media/Ig9sBjuMG56a3KZv8u/giphy.gif" width="100%" />
       </td>
     </tr>
     <tr>
       <td>
-        <img alt="Web Be The Hero GIF" src="static/web-be-the-hero.gif" width="100%" />
+        <img alt="Web Be The Hero GIF" src="https://media.giphy.com/media/kGXRKvadDUPghHNjKW/giphy.gif" width="100%" />
       </td>
     </tr>
     <tr>
       <td>
-        <img alt="Site Sysdomotic GIF" src="static/site-sysdomotic.gif" width="100%" />
+        <img alt="Site Sysdomotic GIF" src="https://media.giphy.com/media/UQIw7VC1EYkt8FqfEm/giphy.gif" width="100%" />
       </td>
     </tr>
     <tr>
       <td>
-        <img alt="Portal Sysdomotic GIF" src="static/portal-sysdomotic.gif" width="100%" />
+        <img alt="Portal Sysdomotic GIF" src="https://media.giphy.com/media/Qsy4EbCq5AZgIaZ219/giphy.gif" width="100%" />
       </td>
     </tr>
   </tbody>
