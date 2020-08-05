@@ -63,7 +63,7 @@ I have worked with the following databases:<br/>
     </tr>
     <tr>
       <td>
-        <img alt="Site Sysdomotic GIF" src="https://media.giphy.com/media/XH4t1ZtEgN7wZRxF1v/giphy.gif" width="100%" />
+        <img alt="Site Sysdomotic GIF" src="https://github.com/devluma/devluma/blob/master/static/site-sysdomotic.gif?raw=true" width="100%" />
       </td>
     </tr>
   </tbody>
