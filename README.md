@@ -31,7 +31,7 @@ I have worked with the following databases:<br/>
 - ✔️ MONGODB
 
  <br/> 💻 &nbsp; **My Stack Now:** ReactJS, Node.js, React Native & Typescript
- <br/> 💬 &nbsp; **About me:** Love technologies, robotic and automation systems, i like walking and watching movies and TV series.
+ <br/> 💬 &nbsp; **About me:** I Love technologies, robotic and automation systems, i like walking and watching movies and TV series.
 
 ### 🚀 **Follow My Jobs:**
 
