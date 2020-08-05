@@ -39,7 +39,7 @@ I have worked with the following databases:<br/>
   <tbody>
     <tr>
       <td>
-        <img alt="Buttons Animate GIF" src="https://media.giphy.com/media/Ig9sBjuMG56a3KZv8u/giphy.gif" width="100%" />
+        <img alt="Buttons Animate GIF" src="https://github.com/devluma/devluma/blob/master/static/buttons-animate.gif?raw=true" width="100%" />
       </td>
     </tr>
     <tr>
@@ -47,7 +47,7 @@ I have worked with the following databases:<br/>
     </tr>
     <tr>
       <td>
-        <img alt="Web Be The Hero GIF" src="https://media.giphy.com/media/kGXRKvadDUPghHNjKW/giphy.gif" width="100%" />
+        <img alt="Web Be The Hero GIF" src="https://github.com/devluma/devluma/blob/master/static/web-be-the-hero.gif?raw=true" width="100%" />
       </td>
     </tr>
     <tr>
@@ -55,7 +55,7 @@ I have worked with the following databases:<br/>
     </tr>
     <tr>
       <td>
-        <img alt="Portal Sysdomotic GIF" src="https://media.giphy.com/media/Qsy4EbCq5AZgIaZ219/giphy.gif" width="100%" />
+        <img alt="Portal Sysdomotic GIF" src="https://github.com/devluma/devluma/blob/master/static/portal-sysdomotic.gif?raw=true" width="100%" />
       </td>
     </tr>
     <tr>
